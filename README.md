@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/1faf2c1e-0e14-45db-9e2c-a5a0719eb3a4
 
 ## What it does
 
-- **Ingests** PostHog session replays (including gzipped chunk handling and long-context sessions)
+- **Ingests** PostHog session replays as a gzip-compressed rrweb stream
 - **Renders** each session as video via headless Chrome + rrweb, injecting semantic color beacons to mark click boundaries and pause windows
 - **Verifies** the exact on-screen location of every click by hit-testing inside the replayer iframe and cross-checking against rrweb's claimed target node
 - **Cuts** the master recording into click and no-click clips based on the detected beacons, removes the beacon frames themselves, and re-encodes with silent audio
