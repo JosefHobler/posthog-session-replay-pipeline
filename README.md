@@ -1,6 +1,6 @@
 # PostHog Session Replay Pipeline
 
-https://stream.mux.com/lqWtK02PiREUvlgzjkXBEtbxfpePgNsYMwd6nLdyIRHA.m3u8
+[![Watch the video](https://image.mux.com/lqWtK02PiREUvlgzjkXBEtbxfpePgNsYMwd6nLdyIRHA/thumbnail.jpg)](URL_TO_YOUR_WEBSITE_WHERE_VIDEO_PLAYS)
 
 An automated, AI-powered pipeline to transcribe, analyze, and extract deep insights from PostHog session replays.
 
