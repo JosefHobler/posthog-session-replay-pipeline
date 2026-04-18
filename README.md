@@ -1,10 +1,12 @@
 # PostHog Session Replay Pipeline
 
-[![Watch the video](https://image.mux.com/lqWtK02PiREUvlgzjkXBEtbxfpePgNsYMwd6nLdyIRHA/thumbnail.jpg)](URL_TO_YOUR_WEBSITE_WHERE_VIDEO_PLAYS)
-
 An automated, AI-powered pipeline to transcribe, analyze, and extract deep insights from PostHog session replays.
 
 This repository orchestrates a multi-step process utilizing Puppeteer for replay rendering, Google Gemini for visual and text analysis, and Google Cloud Storage for clip persistence, culminating in structured, queryable analytics in PostgreSQL.
+
+## UserSession.ai (product built on this pipeline):
+
+https://github.com/user-attachments/assets/1faf2c1e-0e14-45db-9e2c-a5a0719eb3a4
 
 ## 📂 Project Structure
 
