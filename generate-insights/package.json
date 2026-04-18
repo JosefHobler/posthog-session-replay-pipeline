@@ -1,0 +1,25 @@
+{
+  "name": "mvp-generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.16.1",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.0",
+    "@google-cloud/storage": "^7.17.2",
+    "@google/genai": "^1.25.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "drizzle-orm": "^0.44.6",
+    "ffmpeg-static": "^5.2.0",
+    "openai": "^6.9.1",
+    "pg": "^8.16.3"
+  }
+}
